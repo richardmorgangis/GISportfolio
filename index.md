@@ -1,4 +1,4 @@
-# [Your Name]
+# Richard Morgan
 
 ## About
 [1-2 sentences about your academic focus or career interests in GIS/Remote Sensing]
