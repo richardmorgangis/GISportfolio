@@ -22,6 +22,7 @@ Expected Graduation: [Month Year]
 
 ## Projects
 - [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - **SAMPLE** - A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.
+- [My Sample Project 2](projects/sample_project2.md) - A simple description of my project
 
 ## Problem/Question
 - [Project 2 Title](projects/project2.md) - [One sentence description]
